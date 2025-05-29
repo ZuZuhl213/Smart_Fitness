@@ -1,0 +1,501 @@
+menu,total_calories,total_protein,total_fat,total_carb,protein_ratio,fat_ratio,carb_ratio,goal
+Trái chuối (82g) + Salad rau củ (151g) + Sữa tươi không đường (226g),201.0,6.8,6.4,31.6,0.135,0.287,0.629,không_phù_hợp
+Đậu phộng rang (29g) + Cá hồi áp chảo (72g) + Trà gừng mật ong (183g),339.6,22.6,22.9,14.9,0.266,0.607,0.176,không_phù_hợp
+Ức gà nướng (98g) + Khoai lang luộc (97g) + Salad rau củ (171g),336.3,34.2,9.3,27.4,0.407,0.249,0.326,giảm_cân
+Ức gà nướng (97g) + Đậu hũ chiên (91g) + Đậu phộng rang (32g),461.8,44.8,26.6,10.0,0.388,0.518,0.087,không_phù_hợp
+Salad rau củ (155g) + Sữa tươi không đường (209g) + Trứng luộc (65g),228.0,13.8,13.1,13.2,0.242,0.517,0.232,không_phù_hợp
+Đậu phộng rang (38g) + Thịt bò xào hành (74g),387.7,28.1,28.8,9.8,0.29,0.669,0.101,không_phù_hợp
+Cá hồi áp chảo (71g) + Trứng luộc (59g) + Sữa tươi không đường (171g),274.2,26.0,16.3,5.0,0.379,0.535,0.073,không_phù_hợp
+Cơm gạo lứt (79g) + Trái chuối (121g) + Cháo yến mạch (144g),303.4,7.0,3.2,65.4,0.092,0.095,0.862,không_phù_hợp
+Cháo yến mạch (220g) + Canh bí đỏ (178g),209.5,6.4,4.6,37.7,0.122,0.198,0.72,không_phù_hợp
+Khoai lang luộc (92g) + Bông cải xanh hấp (77g),121.5,4.3,0.6,26.9,0.142,0.044,0.886,tăng_cân
+Cháo yến mạch (171g) + Đậu phộng rang (35g) + Cá hồi áp chảo (74g),467.4,28.7,28.5,30.1,0.246,0.549,0.258,không_phù_hợp
+Đậu hũ chiên (105g) + Canh bí đỏ (230g) + Trà gừng mật ong (166g),241.9,9.6,11.2,22.9,0.159,0.417,0.379,không_phù_hợp
+Trà gừng mật ong (240g) + Canh bí đỏ (146g),84.5,0.7,1.1,18.6,0.033,0.117,0.88,không_phù_hợp
+Bông cải xanh hấp (73g) + Trái chuối (114g),141.6,4.0,0.8,34.2,0.113,0.051,0.966,không_phù_hợp
+Ức gà nướng (102g) + Bông cải xanh hấp (86g) + Sữa tươi không đường (210g),259.7,38.4,5.2,14.7,0.591,0.18,0.226,giảm_mỡ
+Đậu hũ chiên (130g) + Ức gà nướng (119g) + Cơm gạo lứt (130g),527.9,50.7,17.2,35.1,0.384,0.293,0.266,giảm_cân
+Đậu hũ chiên (85g) + Cháo yến mạch (175g) + Khoai lang luộc (105g),343.9,12.9,10.4,48.0,0.15,0.272,0.558,tăng_cân
+Bông cải xanh hấp (107g) + Trà gừng mật ong (214g) + Đậu hũ chiên (128g),286.0,14.2,12.2,27.6,0.199,0.384,0.386,giữ_cân
+Canh bí đỏ (164g) + Sữa tươi không đường (220g) + Ức gà nướng (106g),262.1,37.4,6.1,12.9,0.571,0.209,0.197,giảm_mỡ
+Cơm gạo lứt (74g) + Ức gà nướng (98g) + Trà gừng mật ong (210g),285.8,32.3,4.2,27.5,0.452,0.132,0.385,giảm_mỡ
+Canh bí đỏ (204g) + Cơm gạo lứt (110g) + Salad rau củ (175g),266.4,6.2,8.4,42.6,0.093,0.284,0.64,không_phù_hợp
+Ức gà nướng (100g) + Trái chuối (80g) + Salad rau củ (125g),302.9,33.5,8.0,24.2,0.442,0.238,0.32,giảm_mỡ
+Ức gà nướng (107g) + Đậu phộng rang (27g) + Khoai lang luộc (82g),391.1,40.8,16.5,21.8,0.417,0.38,0.223,giữ_cân
+Trà gừng mật ong (209g) + Bông cải xanh hấp (85g),88.5,3.1,0.5,19.8,0.14,0.051,0.895,tăng_cân
+Bông cải xanh hấp (105g) + Cháo yến mạch (239g) + Khoai lang luộc (79g),304.9,11.1,4.3,59.6,0.146,0.127,0.782,tăng_cân
+Salad rau củ (109g) + Thịt bò xào hành (117g) + Canh bí đỏ (240g),410.6,33.1,23.0,19.4,0.322,0.504,0.189,không_phù_hợp
+Cơm gạo lứt (129g) + Ức gà nướng (126g),351.1,42.4,5.7,29.7,0.483,0.146,0.338,giảm_mỡ
+Bông cải xanh hấp (100g) + Thịt bò xào hành (95g),292.5,28.4,14.8,13.8,0.388,0.455,0.189,không_phù_hợp
+Canh bí đỏ (248g) + Sữa tươi không đường (236g),111.6,5.3,3.0,17.1,0.19,0.242,0.613,tăng_cân
+Cá hồi áp chảo (76g) + Canh bí đỏ (185g) + Trứng luộc (50g),280.8,23.9,16.6,8.9,0.34,0.532,0.127,không_phù_hợp
+Cháo yến mạch (221g) + Trái chuối (78g) + Đậu hũ chiên (75g),343.2,12.4,10.3,50.8,0.145,0.27,0.592,tăng_cân
+Cá hồi áp chảo (109g) + Sữa tươi không đường (144g) + Bông cải xanh hấp (84g),301.0,29.5,15.4,12.8,0.392,0.46,0.17,không_phù_hợp
+Đậu hũ chiên (100g) + Trà gừng mật ong (236g),191.2,8.0,9.0,15.8,0.167,0.424,0.331,không_phù_hợp
+Trứng luộc (38g) + Ức gà nướng (97g),219.3,34.9,7.5,0.5,0.637,0.308,0.009,giữ_cân
+Bông cải xanh hấp (88g) + Salad rau củ (171g),139.6,5.5,6.2,17.7,0.158,0.4,0.507,không_phù_hợp
+Salad rau củ (190g) + Cá hồi áp chảo (125g),358.8,30.0,22.6,8.9,0.334,0.567,0.099,không_phù_hợp
+Khoai lang luộc (117g) + Trứng luộc (43g),167.7,7.3,4.7,23.9,0.174,0.252,0.57,tăng_cân
+Ức gà nướng (119g) + Canh bí đỏ (195g) + Cháo yến mạch (247g),430.4,44.0,9.5,42.1,0.409,0.199,0.391,giảm_mỡ
+Đậu phộng rang (21g) + Trái chuối (76g),179.6,5.7,10.0,21.7,0.127,0.501,0.483,không_phù_hợp
+Khoai lang luộc (119g) + Cá hồi áp chảo (92g) + Salad rau củ (144g),368.7,24.1,16.9,30.5,0.261,0.413,0.331,không_phù_hợp
+Cá hồi áp chảo (120g) + Canh bí đỏ (151g) + Bông cải xanh hấp (84g),331.1,30.3,17.2,16.0,0.366,0.468,0.193,không_phù_hợp
+Bông cải xanh hấp (75g) + Sữa tươi không đường (169g),76.7,5.6,1.3,12.5,0.292,0.153,0.652,tăng_cơ
+Sữa tươi không đường (216g) + Salad rau củ (161g),131.2,5.8,6.4,12.9,0.177,0.439,0.393,không_phù_hợp
+Ức gà nướng (72g) + Đậu hũ chiên (121g),293.0,32.0,13.5,4.8,0.437,0.415,0.066,không_phù_hợp
+Sữa tươi không đường (258g) + Cá hồi áp chảo (71g) + Cơm gạo lứt (106g),318.1,22.8,11.5,30.8,0.287,0.325,0.387,giữ_cân
+Ức gà nướng (117g) + Salad rau củ (180g) + Khoai lang luộc (102g),376.8,40.3,10.3,28.8,0.428,0.246,0.306,giảm_cân
+Trứng luộc (61g) + Cá hồi áp chảo (83g) + Đậu phộng rang (25g),399.5,31.8,28.9,5.7,0.318,0.651,0.057,không_phù_hợp
+Ức gà nướng (97g) + Sữa tươi không đường (197g) + Bông cải xanh hấp (94g),253.1,36.9,5.0,15.3,0.583,0.178,0.242,giảm_mỡ
+Đậu phộng rang (39g) + Cơm gạo lứt (124g),345.6,12.3,19.3,36.3,0.142,0.503,0.42,không_phù_hợp
+Thịt bò xào hành (90g) + Cơm gạo lứt (111g) + Trứng luộc (41g),412.2,31.5,18.8,28.7,0.306,0.41,0.279,không_phù_hợp
+Cá hồi áp chảo (73g) + Trà gừng mật ong (228g) + Cháo yến mạch (161g),316.7,20.1,11.9,33.1,0.254,0.338,0.418,giữ_cân
+Đậu phộng rang (39g) + Cá hồi áp chảo (85g) + Ức gà nướng (97g),543.1,57.9,32.7,7.8,0.426,0.542,0.057,không_phù_hợp
+Sữa tươi không đường (203g) + Canh bí đỏ (243g),103.4,4.7,2.8,16.0,0.182,0.244,0.619,tăng_cân
+Canh bí đỏ (150g) + Cháo yến mạch (233g) + Cơm gạo lứt (101g),324.4,9.2,5.5,61.4,0.113,0.153,0.757,không_phù_hợp
+Đậu hũ chiên (76g) + Cháo yến mạch (173g) + Cơm gạo lứt (124g),376.8,13.6,10.6,54.9,0.144,0.253,0.583,tăng_cân
+Trà gừng mật ong (182g) + Trứng luộc (62g) + Cá hồi áp chảo (91g),320.6,27.8,18.4,9.8,0.347,0.517,0.122,không_phù_hợp
+Đậu phộng rang (37g) + Thịt bò xào hành (82g) + Ức gà nướng (77g),529.4,53.8,32.3,9.9,0.406,0.549,0.075,không_phù_hợp
+Ức gà nướng (111g) + Cháo yến mạch (245g),366.9,40.5,7.7,33.1,0.442,0.189,0.361,giảm_mỡ
+Đậu phộng rang (31g) + Khoai lang luộc (95g) + Thịt bò xào hành (71g),424.5,27.2,25.2,27.3,0.256,0.534,0.257,không_phù_hợp
+Cá hồi áp chảo (115g) + Khoai lang luộc (79g),304.8,26.6,15.0,15.8,0.349,0.443,0.207,không_phù_hợp
+Canh bí đỏ (180g) + Thịt bò xào hành (82g) + Bông cải xanh hấp (90g),299.5,25.5,14.2,20.5,0.341,0.427,0.274,không_phù_hợp
+Trứng luộc (48g) + Canh bí đỏ (228g),131.9,7.2,6.8,10.8,0.218,0.464,0.328,không_phù_hợp
+Canh bí đỏ (259g) + Đậu phộng rang (25g),198.1,7.1,13.6,16.7,0.143,0.618,0.337,không_phù_hợp
+Khoai lang luộc (102g) + Cá hồi áp chảo (72g) + Salad rau củ (168g),325.6,19.7,15.1,28.2,0.242,0.417,0.346,không_phù_hợp
+Cơm gạo lứt (118g) + Thịt bò xào hành (109g),403.5,31.4,17.4,30.4,0.311,0.388,0.301,giữ_cân
+Cá hồi áp chảo (88g) + Canh bí đỏ (191g),229.0,20.3,12.9,8.6,0.355,0.507,0.15,không_phù_hợp
+Cháo yến mạch (180g) + Cơm gạo lứt (92g),237.1,6.9,3.5,45.5,0.116,0.133,0.768,không_phù_hợp
+Cơm gạo lứt (113g) + Trà gừng mật ong (255g),176.4,2.9,1.0,38.7,0.066,0.051,0.878,không_phù_hợp
+Cá hồi áp chảo (119g) + Bông cải xanh hấp (103g),301.8,30.0,16.1,11.3,0.398,0.48,0.15,không_phù_hợp
+Đậu hũ chiên (87g) + Ức gà nướng (111g),308.4,41.4,11.8,3.5,0.537,0.344,0.045,giữ_cân
+Bông cải xanh hấp (106g) + Cá hồi áp chảo (124g),313.7,31.2,16.8,11.7,0.398,0.482,0.149,không_phù_hợp
+Bông cải xanh hấp (74g) + Đậu hũ chiên (78g) + Trái chuối (78g),222.4,9.8,7.7,29.2,0.176,0.312,0.525,tăng_cân
+Đậu phộng rang (28g) + Cá hồi áp chảo (92g),338.9,26.8,25.0,5.6,0.316,0.664,0.066,không_phù_hợp
+Cá hồi áp chảo (88g) + Thịt bò xào hành (110g) + Khoai lang luộc (98g),540.6,49.5,28.0,22.9,0.366,0.466,0.169,không_phù_hợp
+Cháo yến mạch (241g) + Ức gà nướng (107g) + Trái chuối (130g),473.0,40.6,7.9,62.4,0.343,0.15,0.528,tăng_cơ
+Sữa tươi không đường (259g) + Đậu phộng rang (38g),257.1,13.3,19.0,14.1,0.207,0.665,0.219,không_phù_hợp
+Cơm gạo lứt (108g) + Trứng luộc (35g) + Trà gừng mật ong (141g),202.7,7.2,4.7,32.3,0.142,0.209,0.637,tăng_cân
+Salad rau củ (128g) + Bông cải xanh hấp (96g) + Đậu hũ chiên (114g),285.2,14.4,15.1,21.1,0.202,0.477,0.296,không_phù_hợp
+Đậu phộng rang (33g) + Trái chuối (71g) + Canh bí đỏ (186g),285.7,9.4,17.0,31.3,0.132,0.536,0.438,không_phù_hợp
+Khoai lang luộc (123g) + Đậu hũ chiên (88g),232.5,9.0,8.0,28.1,0.155,0.31,0.483,không_phù_hợp
+Trái chuối (111g) + Cháo yến mạch (161g) + Canh bí đỏ (193g),267.8,6.2,4.2,56.0,0.093,0.141,0.836,không_phù_hợp
+Sữa tươi không đường (153g) + Salad rau củ (149g),111.6,4.6,5.7,10.8,0.165,0.46,0.387,không_phù_hợp
+Trà gừng mật ong (227g) + Khoai lang luộc (98g) + Thịt bò xào hành (92g),359.7,25.5,13.9,33.7,0.284,0.348,0.375,giữ_cân
+Thịt bò xào hành (124g) + Trứng luộc (55g) + Cá hồi áp chảo (126g),655.4,66.9,40.8,4.4,0.408,0.56,0.027,không_phù_hợp
+Đậu hũ chiên (118g) + Bông cải xanh hấp (115g) + Trà gừng mật ong (197g),272.6,13.7,11.3,27.2,0.201,0.373,0.399,giữ_cân
+Trứng luộc (48g) + Đậu phộng rang (26g),213.5,12.1,17.2,5.8,0.227,0.725,0.109,không_phù_hợp
+Sữa tươi không đường (147g) + Trứng luộc (44g) + Cá hồi áp chảo (74g),251.9,24.3,15.0,4.2,0.386,0.536,0.067,không_phù_hợp
+Đậu phộng rang (33g) + Sữa tươi không đường (161g) + Đậu hũ chiên (106g),362.5,18.9,25.7,14.9,0.209,0.638,0.164,không_phù_hợp
+Cá hồi áp chảo (114g) + Sữa tươi không đường (147g),265.7,27.6,15.6,3.7,0.416,0.528,0.056,không_phù_hợp
+Sữa tươi không đường (153g) + Ức gà nướng (97g) + Cơm gạo lứt (114g),318.7,35.6,5.3,30.0,0.447,0.15,0.377,giảm_mỡ
+Thịt bò xào hành (99g) + Đậu phộng rang (36g) + Trứng luộc (46g),511.3,39.9,36.5,10.7,0.312,0.642,0.084,không_phù_hợp
+Trà gừng mật ong (210g) + Cháo yến mạch (159g),161.2,4.0,2.4,32.0,0.099,0.134,0.794,không_phù_hợp
+Đậu phộng rang (25g) + Trái chuối (97g) + Cá hồi áp chảo (92g),409.2,27.1,23.9,27.3,0.265,0.526,0.267,không_phù_hợp
+Trái chuối (86g) + Thịt bò xào hành (115g) + Trà gừng mật ong (235g),411.0,30.8,17.5,35.0,0.3,0.383,0.341,giữ_cân
+Sữa tươi không đường (225g) + Đậu phộng rang (36g) + Cơm gạo lứt (96g),345.8,14.7,18.8,34.9,0.17,0.489,0.404,không_phù_hợp
+Ức gà nướng (88g) + Trà gừng mật ong (171g) + Cơm gạo lứt (73g),260.4,29.2,3.8,25.3,0.449,0.131,0.389,giảm_mỡ
+Trà gừng mật ong (205g) + Đậu phộng rang (39g),249.0,9.1,18.2,18.1,0.146,0.658,0.291,không_phù_hợp
+Cá hồi áp chảo (124g) + Đậu phộng rang (23g),378.1,32.6,26.9,4.6,0.345,0.64,0.049,không_phù_hợp
+Sữa tươi không đường (200g) + Cá hồi áp chảo (86g) + Cơm gạo lứt (98g),327.9,24.9,13.1,27.5,0.304,0.36,0.335,giữ_cân
+Trái chuối (72g) + Khoai lang luộc (119g),166.4,2.7,0.3,40.4,0.065,0.016,0.971,không_phù_hợp
+Khoai lang luộc (98g) + Salad rau củ (109g),142.4,3.0,3.7,24.7,0.084,0.234,0.694,không_phù_hợp
+Khoai lang luộc (120g) + Đậu hũ chiên (99g) + Bông cải xanh hấp (128g),316.2,14.6,9.8,42.0,0.185,0.279,0.531,tăng_cân
+Salad rau củ (164g) + Đậu phộng rang (29g) + Canh bí đỏ (154g),280.6,9.7,20.2,20.4,0.138,0.648,0.291,không_phù_hợp
+Khoai lang luộc (130g) + Bông cải xanh hấp (92g),162.4,5.5,0.7,36.1,0.135,0.039,0.889,không_phù_hợp
+Bông cải xanh hấp (103g) + Cháo yến mạch (260g) + Cơm gạo lứt (70g),329.4,12.1,5.1,62.5,0.147,0.139,0.759,tăng_cân
+Ức gà nướng (121g) + Salad rau củ (190g),301.0,40.0,10.7,8.9,0.532,0.32,0.118,giữ_cân
+Canh bí đỏ (188g) + Trái chuối (75g),113.8,1.8,1.6,25.7,0.063,0.127,0.903,không_phù_hợp
+Sữa tươi không đường (247g) + Salad rau củ (105g) + Trứng luộc (37g),165.6,10.3,8.7,11.5,0.249,0.473,0.278,không_phù_hợp
+Trái chuối (114g) + Cháo yến mạch (182g),238.0,5.8,3.1,50.8,0.097,0.117,0.854,không_phù_hợp
+Salad rau củ (174g) + Đậu hũ chiên (99g) + Thịt bò xào hành (87g),452.9,32.9,27.8,14.7,0.291,0.552,0.13,không_phù_hợp
+Bông cải xanh hấp (86g) + Cá hồi áp chảo (87g) + Đậu hũ chiên (109g),383.5,31.0,21.6,13.8,0.323,0.507,0.144,không_phù_hợp
+Ức gà nướng (110g) + Đậu hũ chiên (104g) + Salad rau củ (186g),430.5,44.9,19.5,12.8,0.417,0.408,0.119,không_phù_hợp
+Sữa tươi không đường (192g) + Salad rau củ (160g) + Trứng luộc (38g),184.9,10.2,10.3,12.7,0.221,0.501,0.275,không_phù_hợp
+Trái chuối (127g) + Cơm gạo lứt (71g) + Ức gà nướng (120g),389.8,40.4,5.3,45.5,0.415,0.122,0.467,giảm_mỡ
+Cơm gạo lứt (91g) + Đậu hũ chiên (100g),245.0,10.4,9.8,24.9,0.17,0.36,0.407,không_phù_hợp
+Salad rau củ (124g) + Ức gà nướng (74g),188.2,24.6,6.8,5.8,0.523,0.325,0.123,giữ_cân
+Cơm gạo lứt (78g) + Thịt bò xào hành (117g),379.1,32.4,18.3,21.5,0.342,0.434,0.227,không_phù_hợp
+Cơm gạo lứt (101g) + Trứng luộc (36g),168.3,7.2,4.7,23.7,0.171,0.251,0.563,tăng_cân
+Khoai lang luộc (73g) + Cháo yến mạch (242g),244.3,7.2,3.7,47.3,0.118,0.136,0.774,không_phù_hợp
+Salad rau củ (121g) + Khoai lang luộc (74g) + Canh bí đỏ (183g),173.9,3.7,5.5,28.7,0.085,0.285,0.66,không_phù_hợp
+Cá hồi áp chảo (73g) + Trứng luộc (53g),233.1,22.7,15.1,0.6,0.39,0.583,0.01,không_phù_hợp
+Khoai lang luộc (86g) + Canh bí đỏ (164g) + Trà gừng mật ong (207g),156.4,2.2,1.3,34.9,0.056,0.075,0.893,không_phù_hợp
+Bông cải xanh hấp (112g) + Đậu phộng rang (22g),178.9,9.3,10.9,16.7,0.208,0.548,0.373,không_phù_hợp
+Đậu phộng rang (36g) + Salad rau củ (122g) + Cơm gạo lứt (111g),380.3,12.9,21.9,38.4,0.136,0.518,0.404,không_phù_hợp
+Cơm gạo lứt (73g) + Trà gừng mật ong (190g),119.0,1.9,0.7,26.3,0.064,0.053,0.884,không_phù_hợp
+Sữa tươi không đường (175g) + Salad rau củ (147g) + Đậu hũ chiên (79g),228.9,11.3,12.9,14.4,0.197,0.507,0.252,không_phù_hợp
+Trà gừng mật ong (247g) + Bông cải xanh hấp (101g),105.0,3.7,0.6,23.5,0.141,0.051,0.895,tăng_cân
+Thịt bò xào hành (96g) + Cháo yến mạch (228g) + Salad rau củ (195g),515.0,33.3,24.3,42.8,0.259,0.425,0.332,không_phù_hợp
+Khoai lang luộc (84g) + Cá hồi áp chảo (130g) + Sữa tươi không đường (222g),386.7,33.7,18.1,22.4,0.349,0.421,0.232,không_phù_hợp
+Ức gà nướng (79g) + Cháo yến mạch (227g),300.6,30.2,6.2,30.6,0.402,0.186,0.407,giảm_mỡ
+Khoai lang luộc (128g) + Thịt bò xào hành (127g) + Đậu phộng rang (33g),603.6,42.8,34.6,36.0,0.284,0.516,0.239,không_phù_hợp
+Đậu hũ chiên (81g) + Trà gừng mật ong (192g) + Cháo yến mạch (211g),313.3,11.8,10.5,41.3,0.151,0.302,0.527,tăng_cân
+Salad rau củ (163g) + Đậu phộng rang (26g) + Cơm gạo lứt (101g),337.7,10.9,18.5,36.0,0.129,0.493,0.426,không_phù_hợp
+Cơm gạo lứt (126g) + Đậu hũ chiên (126g),321.3,13.4,12.5,34.0,0.167,0.35,0.423,không_phù_hợp
+Khoai lang luộc (77g) + Đậu phộng rang (23g),188.9,6.6,10.8,20.0,0.14,0.515,0.424,không_phù_hợp
+Cơm gạo lứt (125g) + Ức gà nướng (116g),330.1,39.2,5.3,28.8,0.475,0.145,0.349,giảm_mỡ
+Trứng luộc (49g) + Bông cải xanh hấp (89g) + Ức gà nướng (105g),298.6,42.0,9.5,10.4,0.563,0.286,0.139,giảm_cân
+Thịt bò xào hành (74g) + Salad rau củ (113g) + Khoai lang luộc (127g),354.5,22.8,15.0,32.9,0.257,0.381,0.371,giữ_cân
+Ức gà nướng (124g) + Đậu hũ chiên (119g) + Thịt bò xào hành (94g),611.0,72.4,29.3,7.6,0.474,0.432,0.05,không_phù_hợp
+Đậu phộng rang (26g) + Cháo yến mạch (211g),296.9,11.3,15.3,33.7,0.152,0.464,0.454,không_phù_hợp
+Bông cải xanh hấp (87g) + Khoai lang luộc (81g),117.5,4.5,0.6,25.8,0.153,0.046,0.878,tăng_cân
+Sữa tươi không đường (230g) + Canh bí đỏ (183g) + Đậu phộng rang (24g),222.1,10.4,13.7,18.8,0.187,0.555,0.339,không_phù_hợp
+Đậu phộng rang (25g) + Bông cải xanh hấp (93g),184.5,9.3,12.2,15.2,0.202,0.595,0.33,không_phù_hợp
+Trà gừng mật ong (218g) + Cháo yến mạch (210g) + Sữa tươi không đường (141g),230.7,7.6,3.9,42.8,0.132,0.152,0.742,không_phù_hợp
+Thịt bò xào hành (82g) + Bông cải xanh hấp (116g) + Đậu hũ chiên (84g),389.8,32.3,20.6,18.6,0.331,0.476,0.191,không_phù_hợp
+Thịt bò xào hành (113g) + Salad rau củ (138g),356.1,31.2,21.6,9.8,0.35,0.546,0.11,không_phù_hợp
+Cơm gạo lứt (113g) + Ức gà nướng (117g),318.5,39.2,5.2,26.0,0.492,0.147,0.327,giảm_mỡ
+Ức gà nướng (103g) + Cá hồi áp chảo (100g),376.0,53.9,16.7,0.0,0.573,0.4,0.0,giữ_cân
+Trái chuối (90g) + Đậu hũ chiên (95g) + Cơm gạo lứt (107g),335.7,11.4,9.8,49.1,0.136,0.263,0.585,không_phù_hợp
+Cháo yến mạch (228g) + Khoai lang luộc (70g),231.2,6.8,3.5,44.8,0.118,0.136,0.775,không_phù_hợp
+Trà gừng mật ong (250g) + Ức gà nướng (106g) + Salad rau củ (172g),316.6,35.2,9.5,20.5,0.445,0.27,0.259,giảm_cân
+Sữa tươi không đường (222g) + Salad rau củ (162g),133.0,5.9,6.5,13.1,0.177,0.44,0.394,không_phù_hợp
+Thịt bò xào hành (70g) + Cơm gạo lứt (91g),276.0,20.6,11.3,23.0,0.299,0.368,0.333,giữ_cân
+Cháo yến mạch (173g) + Trứng luộc (37g) + Trái chuối (102g),278.2,10.1,6.8,47.3,0.145,0.22,0.68,tăng_cân
+Ức gà nướng (76g) + Cơm gạo lứt (121g) + Trứng luộc (45g),329.9,32.4,8.6,28.4,0.393,0.235,0.344,giảm_mỡ
+Cơm gạo lứt (110g) + Trứng luộc (46g) + Canh bí đỏ (230g),251.4,9.8,7.6,36.2,0.156,0.272,0.576,tăng_cân
+Đậu hũ chiên (113g) + Khoai lang luộc (111g),258.2,10.8,10.3,26.7,0.167,0.359,0.414,không_phù_hợp
+Salad rau củ (139g) + Cơm gạo lứt (99g),184.0,4.4,5.5,29.3,0.096,0.269,0.637,không_phù_hợp
+Khoai lang luộc (85g) + Đậu phộng rang (24g) + Cháo yến mạch (158g),319.6,10.9,13.7,43.1,0.136,0.386,0.539,không_phù_hợp
+Cá hồi áp chảo (82g) + Đậu hũ chiên (109g) + Trà gừng mật ong (177g),361.3,26.8,20.5,13.2,0.297,0.511,0.146,không_phù_hợp
+Canh bí đỏ (165g) + Cá hồi áp chảo (126g) + Khoai lang luộc (113g),398.0,30.4,17.7,30.0,0.306,0.4,0.302,giữ_cân
+Đậu hũ chiên (96g) + Trà gừng mật ong (163g),170.8,7.7,8.6,12.0,0.18,0.453,0.281,không_phù_hợp
+Cháo yến mạch (154g) + Ức gà nướng (99g),278.9,34.5,5.9,20.8,0.495,0.19,0.298,giảm_mỡ
+Ức gà nướng (129g) + Canh bí đỏ (186g),259.4,40.9,6.0,8.4,0.631,0.208,0.13,giảm_mỡ
+Đậu phộng rang (34g) + Sữa tươi không đường (257g) + Ức gà nướng (80g),367.3,37.1,20.0,13.2,0.404,0.49,0.144,không_phù_hợp
+Bông cải xanh hấp (106g) + Thịt bò xào hành (90g) + Cháo yến mạch (181g),419.1,31.8,16.9,38.8,0.304,0.363,0.37,giữ_cân
+Trứng luộc (56g) + Cá hồi áp chảo (120g),334.6,33.5,21.5,0.7,0.4,0.578,0.008,không_phù_hợp
+Trái chuối (84g) + Canh bí đỏ (260g),139.8,2.2,2.2,31.0,0.063,0.142,0.887,không_phù_hợp
+Trái chuối (103g) + Thịt bò xào hành (107g) + Cá hồi áp chảo (108g),581.7,52.7,30.4,26.9,0.362,0.47,0.185,không_phù_hợp
+Trái chuối (73g) + Trà gừng mật ong (242g) + Ức gà nướng (105g),286.6,33.4,4.0,28.9,0.466,0.126,0.403,giảm_mỡ
+Trà gừng mật ong (147g) + Salad rau củ (120g),93.4,1.6,4.0,12.9,0.069,0.385,0.552,không_phù_hợp
+Canh bí đỏ (235g) + Đậu phộng rang (26g) + Thịt bò xào hành (92g),427.4,31.2,27.7,18.5,0.292,0.583,0.173,không_phù_hợp
+Canh bí đỏ (185g) + Khoai lang luộc (119g) + Bông cải xanh hấp (128g),219.0,7.6,2.3,46.2,0.139,0.095,0.844,không_phù_hợp
+Canh bí đỏ (174g) + Trà gừng mật ong (146g),72.7,0.9,1.3,15.1,0.05,0.161,0.831,không_phù_hợp
+Bông cải xanh hấp (114g) + Canh bí đỏ (237g),121.9,5.4,2.5,23.2,0.177,0.185,0.761,tăng_cân
+Salad rau củ (184g) + Cơm gạo lứt (73g),179.2,4.4,6.8,25.4,0.098,0.342,0.567,không_phù_hợp
+Trái chuối (80g) + Sữa tươi không đường (229g) + Trà gừng mật ong (250g),169.3,4.8,1.4,36.6,0.113,0.074,0.865,không_phù_hợp
+Cơm gạo lứt (112g) + Thịt bò xào hành (88g) + Đậu phộng rang (27g),488.3,32.1,26.8,33.8,0.263,0.494,0.277,không_phù_hợp
+Đậu phộng rang (33g) + Thịt bò xào hành (114g) + Đậu hũ chiên (105g),612.2,45.7,42.0,14.2,0.299,0.617,0.093,không_phù_hợp
+Cá hồi áp chảo (84g) + Ức gà nướng (126g) + Salad rau củ (133g),451.9,59.3,19.9,6.2,0.525,0.396,0.055,giữ_cân
+Canh bí đỏ (211g) + Ức gà nướng (110g) + Đậu phộng rang (33g),410.2,42.9,20.9,16.1,0.418,0.459,0.157,không_phù_hợp
+Ức gà nướng (83g) + Khoai lang luộc (124g),243.6,27.7,3.1,24.8,0.455,0.115,0.407,giảm_mỡ
+Bông cải xanh hấp (103g) + Sữa tươi không đường (238g),106.6,7.9,1.8,17.3,0.296,0.152,0.649,tăng_cơ
+Trứng luộc (47g) + Khoai lang luộc (114g),171.4,7.7,5.1,23.4,0.18,0.268,0.546,tăng_cân
+Cơm gạo lứt (70g) + Khoai lang luộc (113g) + Ức gà nướng (122g),376.2,41.4,5.1,38.7,0.44,0.122,0.411,giảm_mỡ
+Cháo yến mạch (222g) + Cơm gạo lứt (88g) + Salad rau củ (144g),341.0,9.8,8.9,56.9,0.115,0.235,0.667,không_phù_hợp
+Salad rau củ (137g) + Đậu phộng rang (28g),222.4,8.4,17.6,12.0,0.151,0.712,0.216,không_phù_hợp
+Canh bí đỏ (246g) + Cơm gạo lứt (75g),144.8,3.2,2.5,28.3,0.088,0.155,0.782,không_phù_hợp
+Đậu phộng rang (37g) + Canh bí đỏ (256g),261.3,9.9,19.2,18.9,0.152,0.661,0.289,không_phù_hợp
+Cá hồi áp chảo (119g) + Salad rau củ (129g),313.9,27.9,19.8,6.0,0.356,0.568,0.076,không_phù_hợp
+Salad rau củ (160g) + Sữa tươi không đường (232g),134.1,6.1,6.5,13.3,0.182,0.436,0.397,không_phù_hợp
+Bông cải xanh hấp (117g) + Trái chuối (124g),174.7,5.7,1.1,41.4,0.131,0.057,0.948,không_phù_hợp
+Trà gừng mật ong (146g) + Sữa tươi không đường (228g) + Salad rau củ (171g),168.3,6.2,6.8,21.0,0.147,0.364,0.499,không_phù_hợp
+Sữa tươi không đường (250g) + Trà gừng mật ong (222g) + Trái chuối (107g),192.1,5.4,1.6,42.0,0.112,0.075,0.875,không_phù_hợp
+Canh bí đỏ (187g) + Cơm gạo lứt (77g),132.2,2.9,2.1,26.1,0.088,0.143,0.79,không_phù_hợp
+Cơm gạo lứt (122g) + Đậu hũ chiên (94g),270.8,10.7,9.6,31.8,0.158,0.319,0.47,không_phù_hợp
+Canh bí đỏ (188g) + Trái chuối (119g) + Trứng luộc (43g),220.0,7.7,6.3,36.3,0.14,0.258,0.66,tăng_cân
+Đậu hũ chiên (94g) + Trà gừng mật ong (233g) + Đậu phộng rang (29g),336.6,14.3,22.0,21.2,0.17,0.588,0.252,không_phù_hợp
+Salad rau củ (193g) + Cơm gạo lứt (74g) + Đậu phộng rang (35g),371.7,12.7,23.4,33.0,0.137,0.567,0.355,không_phù_hợp
+Khoai lang luộc (130g) + Trứng luộc (47g) + Thịt bò xào hành (123g),492.6,40.0,23.6,30.3,0.325,0.431,0.246,không_phù_hợp
+Trà gừng mật ong (219g) + Đậu phộng rang (21g),155.8,4.9,9.8,15.1,0.126,0.566,0.388,không_phù_hợp
+Khoai lang luộc (101g) + Đậu phộng rang (39g) + Đậu hũ chiên (79g),408.6,17.0,25.4,31.2,0.166,0.559,0.305,không_phù_hợp
+Sữa tươi không đường (214g) + Thịt bò xào hành (82g),249.9,25.0,13.4,7.8,0.4,0.483,0.125,không_phù_hợp
+Đậu phộng rang (25g) + Sữa tươi không đường (251g) + Trái chuối (111g),284.8,11.3,13.3,36.8,0.159,0.42,0.517,không_phù_hợp
+Đậu phộng rang (31g) + Ức gà nướng (91g) + Cá hồi áp chảo (113g),548.3,60.3,32.4,6.2,0.44,0.532,0.045,không_phù_hợp
+Ức gà nướng (71g) + Khoai lang luộc (121g),221.2,23.9,2.7,24.2,0.432,0.11,0.438,giảm_mỡ
+Trà gừng mật ong (156g) + Ức gà nướng (93g),184.7,28.8,3.3,7.8,0.624,0.161,0.169,giảm_mỡ
+Khoai lang luộc (87g) + Trứng luộc (55g) + Bông cải xanh hấp (106g),218.9,12.2,6.6,29.7,0.223,0.271,0.543,tăng_cân
+Sữa tươi không đường (191g) + Trái chuối (115g) + Thịt bò xào hành (117g),435.0,34.9,18.8,34.7,0.321,0.389,0.319,giữ_cân
+Trứng luộc (53g) + Khoai lang luộc (96g) + Bông cải xanh hấp (126g),234.5,12.9,6.5,33.7,0.22,0.249,0.575,tăng_cân
+Canh bí đỏ (148g) + Thịt bò xào hành (84g),247.0,22.6,13.7,9.2,0.366,0.499,0.149,không_phù_hợp
+Cá hồi áp chảo (84g) + Đậu phộng rang (39g) + Trà gừng mật ong (209g),422.8,27.6,29.1,18.2,0.261,0.619,0.172,không_phù_hợp
+Salad rau củ (178g) + Trứng luộc (56g),182.3,9.4,11.9,9.0,0.206,0.587,0.197,không_phù_hợp
+Trứng luộc (41g) + Bông cải xanh hấp (106g),122.3,9.1,5.0,12.2,0.298,0.368,0.399,giữ_cân
+Thịt bò xào hành (130g) + Đậu hũ chiên (114g),489.2,42.9,29.8,8.5,0.351,0.548,0.07,không_phù_hợp
+Cá hồi áp chảo (121g) + Khoai lang luộc (88g),324.9,28.0,15.8,17.6,0.345,0.438,0.217,không_phù_hợp
+Trà gừng mật ong (205g) + Canh bí đỏ (193g),89.2,1.0,1.4,18.9,0.045,0.141,0.848,không_phù_hợp
+Sữa tươi không đường (225g) + Trái chuối (93g) + Cá hồi áp chảo (112g),360.7,29.5,16.0,27.0,0.327,0.399,0.299,giữ_cân
+Canh bí đỏ (167g) + Trà gừng mật ong (254g),92.5,0.8,1.3,20.2,0.035,0.126,0.874,không_phù_hợp
+Khoai lang luộc (106g) + Đậu hũ chiên (81g) + Trứng luộc (40g),270.2,13.2,11.6,24.9,0.195,0.386,0.369,giữ_cân
+Canh bí đỏ (189g) + Sữa tươi không đường (187g),86.5,4.1,2.4,13.2,0.19,0.25,0.61,tăng_cân
+Trái chuối (97g) + Khoai lang luộc (106g),177.5,2.8,0.4,43.5,0.063,0.02,0.98,không_phù_hợp
+Cháo yến mạch (159g) + Salad rau củ (150g),199.2,6.0,7.4,28.5,0.12,0.334,0.572,không_phù_hợp
+Canh bí đỏ (227g) + Cá hồi áp chảo (129g),322.5,29.5,18.5,10.2,0.366,0.516,0.127,không_phù_hợp
+Thịt bò xào hành (114g) + Bông cải xanh hấp (112g),346.6,33.8,17.8,15.7,0.39,0.462,0.181,không_phù_hợp
+Cá hồi áp chảo (101g) + Cơm gạo lứt (111g),331.3,25.1,14.1,25.5,0.303,0.383,0.308,giữ_cân
+Bông cải xanh hấp (73g) + Đậu hũ chiên (117g) + Cháo yến mạch (145g),317.4,15.7,13.1,32.3,0.198,0.371,0.407,giữ_cân
+Đậu hũ chiên (91g) + Trứng luộc (58g),221.5,14.6,14.3,4.3,0.264,0.581,0.078,không_phù_hợp
+Cơm gạo lứt (85g) + Cháo yến mạch (147g),204.6,5.9,3.0,39.4,0.115,0.132,0.77,không_phù_hợp
+Canh bí đỏ (228g) + Salad rau củ (135g) + Trứng luộc (63g),227.3,10.9,12.9,17.3,0.192,0.511,0.304,không_phù_hợp
+Cá hồi áp chảo (101g) + Sữa tươi không đường (159g) + Trái chuối (106g),335.8,26.1,14.2,28.4,0.311,0.381,0.338,giữ_cân
+Sữa tươi không đường (236g) + Trà gừng mật ong (206g),90.8,4.0,1.2,16.2,0.176,0.119,0.714,tăng_cân
+Đậu hũ chiên (78g) + Thịt bò xào hành (129g) + Đậu phộng rang (23g),557.5,45.1,37.1,11.6,0.324,0.599,0.083,không_phù_hợp
+Sữa tươi không đường (252g) + Cháo yến mạch (251g) + Trà gừng mật ong (204g),282.0,10.6,5.0,50.4,0.15,0.16,0.715,tăng_cân
+Thịt bò xào hành (100g) + Bông cải xanh hấp (86g) + Cá hồi áp chảo (115g),534.2,54.5,30.5,12.5,0.408,0.514,0.094,không_phù_hợp
+Canh bí đỏ (204g) + Ức gà nướng (110g),232.5,35.1,5.5,9.2,0.604,0.213,0.158,giảm_mỡ
+Sữa tươi không đường (155g) + Cháo yến mạch (193g),177.3,7.5,3.7,29.9,0.169,0.188,0.675,tăng_cân
+Trứng luộc (37g) + Khoai lang luộc (81g) + Đậu hũ chiên (76g),236.8,12.0,10.8,19.7,0.203,0.41,0.333,không_phù_hợp
+Sữa tươi không đường (202g) + Cơm gạo lứt (110g) + Trà gừng mật ong (186g),201.7,6.3,2.0,39.7,0.125,0.089,0.787,không_phù_hợp
+Cháo yến mạch (178g) + Cơm gạo lứt (82g),224.5,6.6,3.4,42.9,0.118,0.136,0.764,không_phù_hợp
+Đậu phộng rang (24g) + Sữa tươi không đường (257g),182.0,10.0,12.5,11.2,0.22,0.618,0.246,không_phù_hợp
+Salad rau củ (178g) + Cá hồi áp chảo (73g),245.3,18.4,15.4,8.3,0.3,0.565,0.135,không_phù_hợp
+Canh bí đỏ (180g) + Bông cải xanh hấp (91g) + Ức gà nướng (116g),286.4,40.2,6.1,18.1,0.561,0.192,0.253,giảm_mỡ
+Trái chuối (127g) + Đậu phộng rang (21g) + Cơm gạo lứt (129g),368.2,9.7,11.3,63.1,0.105,0.276,0.685,không_phù_hợp
+Salad rau củ (153g) + Cá hồi áp chảo (93g) + Đậu hũ chiên (101g),418.6,30.6,26.3,11.2,0.292,0.565,0.107,không_phù_hợp
+Khoai lang luộc (106g) + Cá hồi áp chảo (80g),256.0,19.3,10.5,21.2,0.302,0.369,0.331,giữ_cân
+Bông cải xanh hấp (97g) + Canh bí đỏ (257g),117.6,4.9,2.5,22.2,0.167,0.191,0.755,tăng_cân
+Sữa tươi không đường (229g) + Cơm gạo lứt (112g),172.4,6.8,2.2,31.5,0.158,0.115,0.731,tăng_cân
+Sữa tươi không đường (198g) + Đậu phộng rang (28g),190.9,9.9,14.1,10.6,0.207,0.665,0.222,không_phù_hợp
+Đậu hũ chiên (123g) + Khoai lang luộc (127g),286.3,11.9,11.2,30.3,0.166,0.352,0.423,không_phù_hợp
+Cá hồi áp chảo (123g) + Thịt bò xào hành (118g),548.4,57.7,33.7,3.5,0.421,0.553,0.026,không_phù_hợp
+Đậu hũ chiên (116g) + Ức gà nướng (125g),373.3,48.0,14.9,4.6,0.514,0.359,0.049,giữ_cân
+Salad rau củ (124g) + Trà gừng mật ong (230g),112.1,1.7,4.1,17.3,0.061,0.329,0.617,không_phù_hợp
+Ức gà nướng (85g) + Trà gừng mật ong (217g) + Trái chuối (89g),262.9,27.3,3.3,31.3,0.415,0.113,0.476,giảm_mỡ
+Ức gà nướng (124g) + Sữa tươi không đường (221g),251.0,42.2,5.6,5.5,0.673,0.201,0.088,giảm_mỡ
+Đậu phộng rang (33g) + Trái chuối (120g) + Sữa tươi không đường (246g),334.5,13.2,17.0,40.3,0.158,0.457,0.482,không_phù_hợp
+Trà gừng mật ong (257g) + Bông cải xanh hấp (99g),105.8,3.7,0.6,23.7,0.14,0.051,0.896,tăng_cân
+Cơm gạo lứt (83g) + Thịt bò xào hành (121g),394.6,33.6,18.9,22.7,0.341,0.431,0.23,không_phù_hợp
+Cháo yến mạch (233g) + Đậu phộng rang (33g),350.8,13.5,18.9,38.1,0.154,0.485,0.434,không_phù_hợp
+Trà gừng mật ong (154g) + Đậu hũ chiên (80g) + Trứng luộc (44g),214.6,11.9,11.9,11.4,0.222,0.499,0.212,không_phù_hợp
+Khoai lang luộc (91g) + Ức gà nướng (94g) + Cá hồi áp chảo (120g),480.6,57.0,19.1,18.2,0.474,0.358,0.151,giữ_cân
+Bông cải xanh hấp (71g) + Cá hồi áp chảo (93g) + Sữa tươi không đường (160g),264.2,25.8,13.3,11.8,0.391,0.453,0.179,không_phù_hợp
+Cơm gạo lứt (100g) + Bông cải xanh hấp (105g),168.8,6.5,1.5,34.5,0.154,0.08,0.818,tăng_cân
+Cá hồi áp chảo (76g) + Khoai lang luộc (73g) + Trái chuối (124g),329.7,19.3,10.3,43.1,0.234,0.281,0.523,tăng_cân
+Thịt bò xào hành (74g) + Cơm gạo lứt (92g),287.1,21.6,11.9,23.4,0.301,0.373,0.326,giữ_cân
+Bông cải xanh hấp (128g) + Trà gừng mật ong (159g),102.2,4.7,0.8,22.0,0.184,0.07,0.861,tăng_cân
+Cháo yến mạch (179g) + Trứng luộc (49g) + Trái chuối (130g),326.4,12.1,8.3,54.7,0.148,0.229,0.67,tăng_cân
+Trái chuối (84g) + Sữa tươi không đường (154g),107.1,3.5,1.0,23.2,0.131,0.084,0.866,không_phù_hợp
+Khoai lang luộc (113g) + Bông cải xanh hấp (72g),136.8,4.5,0.5,30.5,0.132,0.033,0.892,không_phù_hợp
+Cơm gạo lứt (76g) + Sữa tươi không đường (173g),120.7,4.9,1.5,21.8,0.162,0.112,0.722,tăng_cân
+Trà gừng mật ong (245g) + Cá hồi áp chảo (71g) + Trứng luộc (43g),262.3,21.0,13.8,12.8,0.32,0.474,0.195,không_phù_hợp
+Cá hồi áp chảo (98g) + Cơm gạo lứt (124g),339.5,24.8,13.9,28.5,0.292,0.368,0.336,giữ_cân
+Sữa tươi không đường (260g) + Đậu phộng rang (21g) + Thịt bò xào hành (127g),484.1,42.3,30.1,14.5,0.35,0.56,0.12,không_phù_hợp
+Ức gà nướng (99g) + Cháo yến mạch (154g),278.9,34.5,5.9,20.8,0.495,0.19,0.298,giảm_mỡ
+Thịt bò xào hành (125g) + Đậu phộng rang (32g) + Cháo yến mạch (171g),611.4,44.2,36.2,33.2,0.289,0.533,0.217,không_phù_hợp
+Đậu hũ chiên (75g) + Khoai lang luộc (126g),216.4,8.0,6.9,28.2,0.148,0.287,0.521,tăng_cân
+Ức gà nướng (101g) + Bông cải xanh hấp (118g),231.6,35.7,4.3,13.0,0.617,0.167,0.225,giảm_mỡ
+Cơm gạo lứt (91g) + Khoai lang luộc (108g) + Trà gừng mật ong (210g),235.9,4.1,0.9,53.0,0.07,0.034,0.899,không_phù_hợp
+Trái chuối (82g) + Ức gà nướng (83g) + Trứng luộc (40g),272.3,31.7,7.5,19.3,0.466,0.248,0.284,giảm_cân
+Khoai lang luộc (123g) + Cháo yến mạch (180g) + Canh bí đỏ (257g),305.0,7.8,4.8,60.5,0.102,0.142,0.793,không_phù_hợp
+Bông cải xanh hấp (118g) + Cá hồi áp chảo (92g),254.4,24.6,12.7,13.0,0.387,0.449,0.204,không_phù_hợp
+Trái chuối (90g) + Khoai lang luộc (104g),169.5,2.7,0.4,41.5,0.064,0.021,0.979,không_phù_hợp
+Sữa tươi không đường (179g) + Thịt bò xào hành (127g),355.1,36.1,19.9,8.3,0.407,0.504,0.093,không_phù_hợp
+Trái chuối (77g) + Salad rau củ (120g) + Ức gà nướng (104g),304.1,34.7,8.0,23.3,0.456,0.237,0.306,giảm_mỡ
+Trà gừng mật ong (160g) + Cơm gạo lứt (109g) + Ức gà nướng (92g),304.8,31.4,4.3,33.1,0.412,0.127,0.434,giảm_mỡ
+Trứng luộc (50g) + Khoai lang luộc (129g) + Cháo yến mạch (143g),296.2,11.9,7.6,45.7,0.161,0.231,0.617,tăng_cân
+Khoai lang luộc (121g) + Thịt bò xào hành (99g) + Cơm gạo lứt (83g),443.7,29.8,15.7,46.3,0.269,0.318,0.417,giữ_cân
+Trái chuối (74g) + Cơm gạo lứt (127g),206.8,4.1,1.4,46.2,0.079,0.061,0.894,không_phù_hợp
+Khoai lang luộc (124g) + Cá hồi áp chảo (129g),372.4,30.4,16.9,24.8,0.327,0.408,0.266,không_phù_hợp
+Sữa tươi không đường (143g) + Trà gừng mật ong (170g),64.0,2.4,0.7,12.1,0.15,0.098,0.756,tăng_cân
+Khoai lang luộc (72g) + Đậu phộng rang (31g),227.3,8.4,14.5,20.6,0.148,0.574,0.363,không_phù_hợp
+Trứng luộc (63g) + Đậu phộng rang (36g) + Trái chuối (95g),374.8,17.4,23.8,29.8,0.186,0.572,0.318,không_phù_hợp
+Thịt bò xào hành (98g) + Trà gừng mật ong (221g),289.2,25.5,14.7,14.0,0.353,0.457,0.194,không_phù_hợp
+Đậu hũ chiên (80g) + Thịt bò xào hành (95g),352.7,31.1,21.4,6.0,0.353,0.546,0.068,không_phù_hợp
+Canh bí đỏ (150g) + Bông cải xanh hấp (96g),90.3,4.3,1.7,17.3,0.19,0.169,0.766,tăng_cân
+Đậu hũ chiên (90g) + Trà gừng mật ong (244g) + Canh bí đỏ (140g),213.4,7.9,9.1,22.1,0.148,0.384,0.414,không_phù_hợp
+Thịt bò xào hành (126g) + Trà gừng mật ong (185g),352.0,32.8,18.9,13.0,0.373,0.483,0.148,không_phù_hợp
+Cháo yến mạch (159g) + Khoai lang luộc (115g) + Trái chuối (96g),303.6,6.9,2.8,66.5,0.091,0.083,0.876,không_phù_hợp
+Salad rau củ (174g) + Đậu phộng rang (30g),252.8,9.3,19.8,14.1,0.147,0.705,0.223,không_phù_hợp
+Cơm gạo lứt (105g) + Cháo yến mạch (224g) + Sữa tươi không đường (148g),315.6,10.8,5.0,58.1,0.137,0.143,0.736,không_phù_hợp
+Sữa tươi không đường (227g) + Cơm gạo lứt (115g) + Trái chuối (101g),265.2,8.0,2.5,55.4,0.121,0.085,0.836,không_phù_hợp
+Salad rau củ (113g) + Khoai lang luộc (95g) + Ức gà nướng (117g),335.0,39.3,8.1,24.3,0.469,0.218,0.29,giảm_mỡ
+Khoai lang luộc (98g) + Thịt bò xào hành (83g) + Đậu phộng rang (39g),499.8,32.2,30.7,29.9,0.258,0.553,0.239,không_phù_hợp
+Cơm gạo lứt (113g) + Cá hồi áp chảo (98g) + Đậu hũ chiên (90g),456.9,31.7,21.9,29.6,0.278,0.431,0.259,không_phù_hợp
+Thịt bò xào hành (107g) + Trái chuối (90g) + Cá hồi áp chảo (123g),601.0,55.9,32.3,23.9,0.372,0.484,0.159,không_phù_hợp
+Đậu hũ chiên (78g) + Khoai lang luộc (113g),209.5,8.0,7.1,25.7,0.153,0.305,0.491,không_phù_hợp
+Ức gà nướng (102g) + Bông cải xanh hấp (104g),225.5,35.5,4.3,11.4,0.63,0.172,0.202,giảm_mỡ
+Trứng luộc (57g) + Canh bí đỏ (210g),141.4,8.2,7.6,10.1,0.232,0.484,0.286,không_phù_hợp
+Đậu hũ chiên (84g) + Thịt bò xào hành (91g) + Trà gừng mật ong (175g),383.5,30.4,21.2,14.8,0.317,0.498,0.154,không_phù_hợp
+Canh bí đỏ (239g) + Ức gà nướng (78g) + Trà gừng mật ong (238g),236.1,25.4,4.6,22.7,0.43,0.175,0.385,giảm_mỡ
+Bông cải xanh hấp (101g) + Canh bí đỏ (260g) + Trà gừng mật ong (211g),162.8,5.0,2.6,33.4,0.123,0.144,0.821,không_phù_hợp
+Trứng luộc (56g) + Cháo yến mạch (162g),208.9,11.1,8.4,22.5,0.213,0.362,0.431,giữ_cân
+Trứng luộc (65g) + Sữa tươi không đường (187g),140.7,11.4,7.8,5.5,0.324,0.499,0.156,không_phù_hợp
+Sữa tươi không đường (232g) + Trứng luộc (48g) + Cá hồi áp chảo (117g),364.6,35.7,21.5,6.4,0.392,0.531,0.07,không_phù_hợp
+Cá hồi áp chảo (110g) + Bông cải xanh hấp (100g),281.6,27.9,14.9,11.0,0.396,0.476,0.156,không_phù_hợp
+Trái chuối (107g) + Trà gừng mật ong (255g) + Trứng luộc (43g),213.3,6.6,4.9,37.9,0.124,0.207,0.711,không_phù_hợp
+Trứng luộc (65g) + Sữa tươi không đường (181g),139.4,11.3,7.8,5.3,0.324,0.504,0.152,không_phù_hợp
+Trái chuối (91g) + Đậu hũ chiên (119g),252.3,10.5,11.0,25.7,0.166,0.392,0.407,không_phù_hợp
+Trái chuối (96g) + Trà gừng mật ong (154g),116.2,1.1,0.3,29.8,0.038,0.023,1.026,không_phù_hợp
+Đậu phộng rang (26g) + Trái chuối (108g),234.8,7.3,12.5,30.0,0.124,0.479,0.511,không_phù_hợp
+Cơm gạo lứt (71g) + Ức gà nướng (79g) + Đậu phộng rang (31g),374.5,33.6,17.9,22.5,0.359,0.43,0.24,không_phù_hợp
+Trái chuối (93g) + Đậu phộng rang (33g),258.8,8.7,15.7,28.0,0.134,0.546,0.433,không_phù_hợp
+Salad rau củ (183g) + Canh bí đỏ (249g),159.8,3.7,8.0,19.7,0.093,0.451,0.493,không_phù_hợp
+Trứng luộc (46g) + Đậu phộng rang (35g) + Cơm gạo lứt (92g),360.5,16.4,22.0,28.7,0.182,0.549,0.318,không_phù_hợp
+Trái chuối (92g) + Cá hồi áp chảo (83g),252.9,19.3,11.1,21.2,0.305,0.395,0.335,giữ_cân
+Trà gừng mật ong (178g) + Khoai lang luộc (106g),126.8,1.7,0.1,30.1,0.054,0.007,0.95,không_phù_hợp
+Cháo yến mạch (227g) + Cơm gạo lứt (107g),289.0,8.5,4.4,55.3,0.118,0.137,0.765,không_phù_hợp
+Khoai lang luộc (77g) + Sữa tươi không đường (191g) + Đậu hũ chiên (115g),271.9,13.7,11.4,24.8,0.202,0.377,0.365,giữ_cân
+Đậu hũ chiên (98g) + Trứng luộc (36g),197.3,12.4,12.6,4.4,0.251,0.575,0.089,không_phù_hợp
+Bông cải xanh hấp (72g) + Cháo yến mạch (160g) + Trái chuối (107g),254.8,7.8,3.2,54.1,0.122,0.113,0.849,không_phù_hợp
+Ức gà nướng (113g) + Salad rau củ (128g),254.7,36.7,8.3,6.0,0.576,0.293,0.094,giảm_cân
+Canh bí đỏ (217g) + Bông cải xanh hấp (120g),120.2,5.5,2.3,23.0,0.183,0.172,0.765,tăng_cân
+Cá hồi áp chảo (91g) + Trà gừng mật ong (155g),218.5,20.0,11.8,7.8,0.366,0.486,0.143,không_phù_hợp
+Salad rau củ (174g) + Sữa tươi không đường (198g) + Khoai lang luộc (99g),219.5,7.3,6.9,32.9,0.133,0.283,0.6,không_phù_hợp
+Bông cải xanh hấp (81g) + Khoai lang luộc (111g) + Salad rau củ (107g),197.1,6.2,4.2,36.1,0.126,0.192,0.733,không_phù_hợp
+Bông cải xanh hấp (117g) + Trà gừng mật ong (256g),115.5,4.3,0.7,25.7,0.149,0.055,0.89,tăng_cân
+Bông cải xanh hấp (123g) + Ức gà nướng (78g) + Cơm gạo lứt (98g),305.1,31.3,4.4,36.1,0.41,0.13,0.473,giảm_mỡ
+Canh bí đỏ (241g) + Đậu hũ chiên (71g) + Ức gà nướng (98g),324.2,37.3,11.7,13.7,0.46,0.325,0.169,giữ_cân
+Bông cải xanh hấp (111g) + Cơm gạo lứt (84g),154.3,6.3,1.4,31.5,0.163,0.082,0.817,tăng_cân
+Trứng luộc (44g) + Trái chuối (82g) + Trà gừng mật ong (181g),177.8,6.4,4.9,28.4,0.144,0.248,0.639,tăng_cân
+Canh bí đỏ (224g) + Cơm gạo lứt (86g),151.5,3.4,2.5,29.9,0.09,0.149,0.789,không_phù_hợp
+Cháo yến mạch (210g) + Thịt bò xào hành (85g) + Khoai lang luộc (101g),456.9,29.0,16.0,51.1,0.254,0.315,0.447,giữ_cân
+Trái chuối (75g) + Đậu phộng rang (37g),264.1,9.5,17.5,24.6,0.144,0.596,0.373,không_phù_hợp
+Salad rau củ (105g) + Đậu hũ chiên (105g) + Khoai lang luộc (126g),315.6,11.8,13.1,34.3,0.15,0.374,0.435,không_phù_hợp
+Đậu hũ chiên (130g) + Thịt bò xào hành (128g),507.2,43.7,30.9,9.0,0.345,0.548,0.071,không_phù_hợp
+Trà gừng mật ong (252g) + Bông cải xanh hấp (119g) + Đậu hũ chiên (123g),293.0,14.2,11.8,30.6,0.194,0.362,0.418,giữ_cân
+Salad rau củ (114g) + Đậu hũ chiên (97g) + Thịt bò xào hành (125g),513.0,41.8,31.3,12.9,0.326,0.549,0.101,không_phù_hợp
+Đậu hũ chiên (103g) + Sữa tươi không đường (206g),191.6,11.7,10.3,9.3,0.244,0.484,0.194,không_phù_hợp
+Salad rau củ (125g) + Cơm gạo lứt (80g),155.5,3.7,4.9,24.2,0.095,0.284,0.623,không_phù_hợp
+Trái chuối (87g) + Thịt bò xào hành (90g),302.4,24.4,13.8,22.7,0.323,0.411,0.3,không_phù_hợp
+Trà gừng mật ong (164g) + Ức gà nướng (81g),166.4,25.1,2.9,8.2,0.603,0.157,0.197,giảm_mỡ
+Sữa tươi không đường (228g) + Cơm gạo lứt (96g) + Canh bí đỏ (231g),212.2,7.5,3.7,38.2,0.141,0.157,0.72,tăng_cân
+Canh bí đỏ (180g) + Trà gừng mật ong (239g) + Trứng luộc (37g),150.5,5.6,5.3,20.5,0.149,0.317,0.545,tăng_cân
+Thịt bò xào hành (125g) + Trứng luộc (50g),390.5,38.8,24.1,4.3,0.397,0.555,0.044,không_phù_hợp
+Ức gà nướng (124g) + Trà gừng mật ong (168g) + Salad rau củ (134g),309.7,40.2,8.9,14.7,0.519,0.259,0.19,giảm_cân
+Ức gà nướng (107g) + Trà gừng mật ong (154g),207.4,33.2,3.9,7.7,0.64,0.169,0.149,giảm_mỡ
+Trứng luộc (50g) + Cơm gạo lứt (112g) + Cháo yến mạch (206g),356.8,14.4,9.4,54.2,0.161,0.237,0.608,tăng_cân
+Thịt bò xào hành (82g) + Ức gà nướng (96g) + Trứng luộc (37g),421.1,55.7,19.7,2.9,0.529,0.421,0.028,không_phù_hợp
+Thịt bò xào hành (126g) + Cơm gạo lứt (86g),410.5,35.0,19.7,23.6,0.341,0.432,0.23,không_phù_hợp
+Thịt bò xào hành (91g) + Khoai lang luộc (97g) + Trứng luộc (63g),409.2,33.1,20.4,22.9,0.324,0.449,0.224,không_phù_hợp
+Bông cải xanh hấp (122g) + Đậu hũ chiên (127g),250.0,14.7,12.2,18.5,0.235,0.439,0.296,không_phù_hợp
+Cá hồi áp chảo (71g) + Salad rau củ (151g) + Cháo yến mạch (205g),380.5,22.8,17.3,34.7,0.24,0.409,0.365,không_phù_hợp
+Đậu hũ chiên (81g) + Khoai lang luộc (122g) + Cháo yến mạch (213g),381.3,13.8,10.6,56.4,0.145,0.25,0.592,tăng_cân
+Cơm gạo lứt (93g) + Cháo yến mạch (192g) + Cá hồi áp chảo (110g),473.8,31.4,18.0,47.3,0.265,0.342,0.399,giữ_cân
+Khoai lang luộc (70g) + Ức gà nướng (107g),236.8,34.3,3.9,14.0,0.579,0.148,0.236,giảm_mỡ
+Ức gà nướng (98g) + Sữa tươi không đường (238g),211.7,34.4,4.7,5.9,0.65,0.2,0.111,giảm_mỡ
+Trứng luộc (47g) + Thịt bò xào hành (83g) + Salad rau củ (184g),379.0,30.0,23.6,11.6,0.317,0.56,0.122,không_phù_hợp
+Ức gà nướng (106g) + Trà gừng mật ong (155g),205.9,32.9,3.8,7.8,0.639,0.166,0.152,giảm_mỡ
+Thịt bò xào hành (82g) + Ức gà nướng (103g),375.0,53.2,16.0,2.5,0.567,0.384,0.027,giữ_cân
+Cháo yến mạch (160g) + Đậu hũ chiên (122g),295.7,13.8,13.4,26.5,0.187,0.408,0.358,không_phù_hợp
+Trứng luộc (42g) + Đậu phộng rang (35g) + Salad rau củ (139g),326.3,15.3,25.4,14.0,0.188,0.701,0.172,không_phù_hợp
+Trà gừng mật ong (213g) + Khoai lang luộc (86g),116.6,1.4,0.1,27.8,0.048,0.008,0.954,không_phù_hợp
+Cháo yến mạch (196g) + Trà gừng mật ong (181g) + Trứng luộc (52g),264.3,11.5,8.5,36.1,0.174,0.289,0.546,tăng_cân
+Đậu hũ chiên (102g) + Trứng luộc (50g),224.9,14.5,14.5,4.7,0.258,0.58,0.084,không_phù_hợp
+Đậu hũ chiên (109g) + Khoai lang luộc (114g),255.0,10.5,9.9,27.2,0.165,0.349,0.427,không_phù_hợp
+Đậu hũ chiên (71g) + Trứng luộc (49g),178.7,11.9,11.6,3.4,0.266,0.584,0.076,không_phù_hợp
+Đậu phộng rang (27g) + Cơm gạo lứt (124g),281.6,9.5,13.7,33.9,0.135,0.438,0.482,không_phù_hợp
+Đậu phộng rang (36g) + Thịt bò xào hành (104g) + Cá hồi áp chảo (82g),620.9,53.5,43.1,10.3,0.345,0.625,0.066,không_phù_hợp
+Sữa tươi không đường (145g) + Khoai lang luộc (117g),131.1,4.3,0.8,27.0,0.131,0.055,0.824,không_phù_hợp
+Cá hồi áp chảo (87g) + Cháo yến mạch (196g),326.2,24.0,14.2,26.5,0.294,0.392,0.325,giữ_cân
+Salad rau củ (182g) + Sữa tươi không đường (194g),137.8,5.7,7.0,13.3,0.165,0.457,0.386,không_phù_hợp
+Trái chuối (85g) + Khoai lang luộc (106g) + Đậu phộng rang (38g),369.5,11.5,18.1,48.4,0.124,0.441,0.524,không_phù_hợp
+Trà gừng mật ong (205g) + Cơm gạo lứt (124g),178.6,3.2,1.1,38.8,0.072,0.055,0.869,không_phù_hợp
+Đậu phộng rang (29g) + Canh bí đỏ (223g) + Bông cải xanh hấp (118g),275.3,12.2,15.9,28.8,0.177,0.52,0.418,không_phù_hợp
+Canh bí đỏ (191g) + Cơm gạo lứt (107g),166.5,3.7,2.4,33.2,0.089,0.13,0.798,không_phù_hợp
+Đậu phộng rang (21g) + Canh bí đỏ (257g) + Trái chuối (103g),267.9,7.3,12.0,39.5,0.109,0.403,0.59,không_phù_hợp
+Đậu hũ chiên (77g) + Trái chuối (111g) + Đậu phộng rang (39g),417.7,16.5,25.5,36.4,0.158,0.549,0.349,không_phù_hợp
+Cháo yến mạch (156g) + Bông cải xanh hấp (127g),186.8,8.6,3.1,35.0,0.184,0.149,0.749,tăng_cân
+Cá hồi áp chảo (84g) + Đậu phộng rang (34g),354.4,26.4,26.8,6.8,0.298,0.681,0.077,không_phù_hợp
+Trứng luộc (55g) + Thịt bò xào hành (72g) + Cháo yến mạch (187g),406.1,30.3,19.4,28.1,0.298,0.43,0.277,không_phù_hợp
+Canh bí đỏ (153g) + Trứng luộc (37g),96.0,5.4,5.1,7.3,0.225,0.478,0.304,không_phù_hợp
+Ức gà nướng (115g) + Bông cải xanh hấp (96g),242.5,39.2,4.7,10.6,0.647,0.174,0.175,giảm_mỡ
+Canh bí đỏ (146g) + Thịt bò xào hành (84g),246.5,22.6,13.7,9.1,0.367,0.5,0.148,không_phù_hợp
+Đậu phộng rang (27g) + Ức gà nướng (80g),276.0,31.1,15.5,5.4,0.451,0.505,0.078,không_phù_hợp
+Trà gừng mật ong (200g) + Canh bí đỏ (240g),100.0,1.2,1.8,20.8,0.048,0.162,0.832,không_phù_hợp
+Salad rau củ (167g) + Ức gà nướng (80g) + Đậu hũ chiên (128g),405.4,37.3,20.0,12.9,0.368,0.444,0.127,không_phù_hợp
+Đậu hũ chiên (102g) + Ức gà nướng (93g) + Thịt bò xào hành (116g),590.3,67.2,29.9,7.6,0.455,0.456,0.051,không_phù_hợp
+Trứng luộc (43g) + Salad rau củ (145g),144.4,7.4,9.4,7.3,0.205,0.586,0.202,không_phù_hợp
+Ức gà nướng (110g) + Đậu hũ chiên (90g) + Trứng luộc (41g),375.1,46.5,16.4,4.1,0.496,0.393,0.044,giữ_cân
+Sữa tươi không đường (242g) + Thịt bò xào hành (98g),295.8,29.6,15.9,9.0,0.4,0.484,0.122,không_phù_hợp
+Bông cải xanh hấp (92g) + Cơm gạo lứt (118g),181.6,6.5,1.6,37.3,0.143,0.079,0.822,tăng_cân
+Ức gà nướng (100g) + Đậu hũ chiên (96g) + Salad rau củ (123g),368.8,40.3,16.3,9.6,0.437,0.398,0.104,giữ_cân
+Trà gừng mật ong (248g) + Cá hồi áp chảo (70g) + Trứng luộc (63g),292.1,23.3,15.8,13.2,0.319,0.487,0.181,không_phù_hợp
+Trứng luộc (57g) + Trà gừng mật ong (197g) + Cá hồi áp chảo (90g),313.7,27.0,17.7,10.5,0.344,0.508,0.134,không_phù_hợp
+Cháo yến mạch (237g) + Đậu hũ chiên (81g),294.4,12.4,10.8,35.2,0.168,0.33,0.478,không_phù_hợp
+Salad rau củ (194g) + Cá hồi áp chảo (120g),350.7,29.0,22.1,9.1,0.331,0.567,0.104,không_phù_hợp
+Khoai lang luộc (78g) + Cháo yến mạch (160g) + Thịt bò xào hành (113g),469.6,34.6,19.4,40.6,0.295,0.372,0.346,giữ_cân
+Trà gừng mật ong (185g) + Khoai lang luộc (105g) + Đậu hũ chiên (101g),272.7,9.8,9.2,34.3,0.144,0.304,0.503,tăng_cân
+Trứng luộc (54g) + Canh bí đỏ (255g) + Đậu hũ chiên (106g),300.6,16.6,17.2,16.4,0.221,0.515,0.218,không_phù_hợp
+Đậu hũ chiên (110g) + Cơm gạo lứt (90g) + Canh bí đỏ (171g),301.1,12.0,12.0,32.8,0.159,0.359,0.436,không_phù_hợp
+Cháo yến mạch (221g) + Bông cải xanh hấp (87g) + Trái chuối (123g),323.1,10.1,4.2,67.7,0.125,0.117,0.838,không_phù_hợp
+Bông cải xanh hấp (103g) + Ức gà nướng (84g),195.2,29.9,3.6,11.3,0.613,0.166,0.232,giảm_mỡ
+Khoai lang luộc (106g) + Canh bí đỏ (228g) + Sữa tươi không đường (146g),178.8,5.3,2.5,35.1,0.119,0.126,0.785,không_phù_hợp
+Salad rau củ (119g) + Đậu hũ chiên (85g) + Khoai lang luộc (124g),292.5,10.4,11.7,33.8,0.142,0.36,0.462,không_phù_hợp
+Cơm gạo lứt (89g) + Bông cải xanh hấp (98g) + Đậu hũ chiên (123g),329.8,15.8,12.5,36.2,0.192,0.341,0.439,giữ_cân
+Bông cải xanh hấp (75g) + Khoai lang luộc (100g),127.2,4.4,0.5,28.2,0.138,0.035,0.887,không_phù_hợp
+Sữa tươi không đường (168g) + Cháo yến mạch (241g),216.0,8.9,4.5,36.7,0.165,0.188,0.68,tăng_cân
+Ức gà nướng (97g) + Salad rau củ (118g) + Cháo yến mạch (220g),388.0,37.1,10.7,35.2,0.382,0.248,0.363,giảm_cân
+Canh bí đỏ (156g) + Cháo yến mạch (150g),151.5,4.5,3.4,27.3,0.119,0.202,0.721,không_phù_hợp
+Trà gừng mật ong (200g) + Cơm gạo lứt (103g),154.3,2.7,0.9,33.7,0.07,0.052,0.874,không_phù_hợp
+Thịt bò xào hành (82g) + Đậu hũ chiên (117g),373.5,30.7,22.8,7.1,0.329,0.549,0.076,không_phù_hợp
+Salad rau củ (166g) + Thịt bò xào hành (92g),318.5,26.1,19.3,10.5,0.328,0.545,0.132,không_phù_hợp
+Đậu hũ chiên (119g) + Salad rau củ (117g),233.8,11.1,14.6,10.2,0.19,0.562,0.175,không_phù_hợp
+Trà gừng mật ong (215g) + Thịt bò xào hành (92g) + Trái chuối (93g),355.8,24.9,14.1,34.9,0.28,0.357,0.392,giữ_cân
+Sữa tươi không đường (168g) + Khoai lang luộc (81g) + Canh bí đỏ (256g),168.9,5.4,2.8,31.9,0.128,0.149,0.755,không_phù_hợp
+Đậu hũ chiên (130g) + Cá hồi áp chảo (120g) + Khoai lang luộc (82g),504.9,38.1,27.4,21.6,0.302,0.488,0.171,không_phù_hợp
+Đậu hũ chiên (78g) + Đậu phộng rang (25g) + Bông cải xanh hấp (92g),296.3,15.5,19.2,18.2,0.209,0.583,0.246,không_phù_hợp
+Trái chuối (70g) + Cháo yến mạch (143g) + Salad rau củ (145g),246.9,6.3,7.2,42.2,0.102,0.262,0.684,không_phù_hợp
+Canh bí đỏ (245g) + Khoai lang luộc (129g) + Bông cải xanh hấp (79g),215.6,6.2,2.4,45.5,0.115,0.1,0.844,không_phù_hợp
+Cơm gạo lứt (80g) + Trà gừng mật ong (216g) + Ức gà nướng (113g),318.4,37.1,4.8,29.2,0.466,0.136,0.367,giảm_mỡ
+Trứng luộc (59g) + Cá hồi áp chảo (112g) + Cháo yến mạch (176g),454.8,36.5,23.5,24.5,0.321,0.465,0.215,không_phù_hợp
+Salad rau củ (139g) + Bông cải xanh hấp (90g) + Cháo yến mạch (248g),309.6,11.4,8.9,49.9,0.147,0.259,0.645,tăng_cân
+Trái chuối (98g) + Salad rau củ (174g) + Ức gà nướng (81g),313.7,28.5,9.0,30.7,0.363,0.258,0.391,tăng_cơ
+Trái chuối (90g) + Cơm gạo lứt (114g) + Bông cải xanh hấp (130g),278.1,8.8,2.1,61.2,0.127,0.068,0.88,không_phù_hợp
+Cháo yến mạch (186g) + Trà gừng mật ong (242g) + Bông cải xanh hấp (101g),243.4,8.4,3.4,48.3,0.138,0.126,0.794,không_phù_hợp
+Trứng luộc (63g) + Thịt bò xào hành (81g),300.8,29.0,18.8,3.2,0.386,0.562,0.043,không_phù_hợp
+Đậu phộng rang (29g) + Trái chuối (91g) + Trà gừng mật ong (229g),281.5,7.8,13.8,38.2,0.111,0.441,0.543,không_phù_hợp
+Trứng luộc (61g) + Salad rau củ (178g),190.1,10.1,12.4,9.0,0.213,0.587,0.189,không_phù_hợp
+Salad rau củ (189g) + Cá hồi áp chảo (83g),271.8,20.8,17.1,8.8,0.306,0.566,0.13,không_phù_hợp
+Salad rau củ (189g) + Đậu phộng rang (23g),223.5,7.9,17.0,13.4,0.141,0.685,0.24,không_phù_hợp
+Thịt bò xào hành (117g) + Salad rau củ (140g),367.2,32.3,22.2,10.0,0.352,0.544,0.109,không_phù_hợp
+Trái chuối (91g) + Đậu phộng rang (29g) + Trà gừng mật ong (255g),286.7,7.8,13.8,39.5,0.109,0.433,0.551,không_phù_hợp
+Cá hồi áp chảo (119g) + Đậu phộng rang (24g),373.1,31.8,26.7,4.8,0.341,0.644,0.051,không_phù_hợp
+Cơm gạo lứt (92g) + Thịt bò xào hành (75g),289.6,21.9,12.1,23.4,0.302,0.376,0.323,giữ_cân
+Đậu phộng rang (22g) + Khoai lang luộc (127g) + Cơm gạo lứt (80g),315.4,9.2,11.1,48.2,0.117,0.317,0.611,không_phù_hợp
+Trà gừng mật ong (233g) + Đậu hũ chiên (112g) + Canh bí đỏ (219g),262.6,10.1,11.7,26.0,0.154,0.401,0.396,không_phù_hợp
+Canh bí đỏ (205g) + Đậu phộng rang (23g),173.9,6.4,12.3,13.8,0.147,0.637,0.317,không_phù_hợp
+Trái chuối (75g) + Trứng luộc (45g),136.9,6.5,5.0,17.8,0.19,0.329,0.52,tăng_cân
+Đậu phộng rang (21g) + Sữa tươi không đường (253g),165.1,9.2,11.1,10.5,0.223,0.605,0.254,không_phù_hợp
+Ức gà nướng (95g) + Đậu hũ chiên (130g),344.0,39.9,15.1,5.2,0.464,0.395,0.06,giữ_cân
+Canh bí đỏ (233g) + Đậu phộng rang (21g),170.2,6.1,11.5,14.7,0.143,0.608,0.345,không_phù_hợp
+Thịt bò xào hành (92g) + Cơm gạo lứt (99g) + Ức gà nướng (97g),499.9,56.6,18.2,25.5,0.453,0.328,0.204,giữ_cân
+Bông cải xanh hấp (114g) + Cháo yến mạch (260g) + Trứng luộc (51g),337.3,17.1,10.0,48.3,0.203,0.267,0.573,tăng_cân
+Salad rau củ (109g) + Sữa tươi không đường (153g),90.3,4.1,4.4,8.9,0.182,0.439,0.394,không_phù_hợp
+Trái chuối (118g) + Khoai lang luộc (84g) + Cháo yến mạch (201g),328.0,7.7,3.5,71.1,0.094,0.096,0.867,không_phù_hợp
+Trà gừng mật ong (161g) + Cá hồi áp chảo (114g) + Sữa tươi không đường (211g),311.3,28.7,15.9,13.3,0.369,0.46,0.171,không_phù_hợp
+Sữa tươi không đường (182g) + Trà gừng mật ong (237g),85.6,3.1,0.9,16.4,0.145,0.095,0.766,tăng_cân
+Bông cải xanh hấp (79g) + Khoai lang luộc (111g) + Canh bí đỏ (230g),196.4,5.8,2.3,41.2,0.118,0.105,0.839,không_phù_hợp
+Trứng luộc (57g) + Trà gừng mật ong (215g),131.9,7.2,6.0,11.4,0.218,0.409,0.346,không_phù_hợp
+Cơm gạo lứt (89g) + Trà gừng mật ong (212g) + Canh bí đỏ (192g),189.2,3.3,2.2,39.7,0.07,0.105,0.839,không_phù_hợp
+Cơm gạo lứt (124g) + Trứng luộc (46g) + Bông cải xanh hấp (76g),251.2,11.8,6.4,37.4,0.188,0.229,0.596,tăng_cân
+Khoai lang luộc (87g) + Đậu phộng rang (37g),272.2,10.0,17.4,24.8,0.147,0.575,0.364,không_phù_hợp
+Bông cải xanh hấp (92g) + Trứng luộc (63g) + Ức gà nướng (129g),361.7,51.3,11.9,10.9,0.567,0.296,0.121,giảm_cân
+Cá hồi áp chảo (123g) + Canh bí đỏ (150g) + Trứng luộc (64g),390.7,35.9,23.9,7.5,0.368,0.551,0.077,không_phù_hợp
+Thịt bò xào hành (91g) + Bông cải xanh hấp (122g),294.6,28.2,14.4,16.1,0.383,0.44,0.219,không_phù_hợp
+Cháo yến mạch (141g) + Đậu phộng rang (26g) + Trứng luộc (35g),299.0,14.0,18.0,24.7,0.187,0.542,0.33,không_phù_hợp
+Sữa tươi không đường (238g) + Thịt bò xào hành (89g),272.5,27.2,14.5,8.6,0.399,0.479,0.126,không_phù_hợp
+Ức gà nướng (112g) + Sữa tươi không đường (220g) + Trứng luộc (59g),323.0,45.9,11.4,6.2,0.568,0.318,0.077,giữ_cân
+Khoai lang luộc (104g) + Bông cải xanh hấp (108g),148.8,5.7,0.8,32.7,0.153,0.048,0.879,tăng_cân
+Canh bí đỏ (175g) + Trứng luộc (60g) + Đậu hũ chiên (121g),311.6,18.1,18.6,13.4,0.232,0.537,0.172,không_phù_hợp
+Sữa tươi không đường (253g) + Salad rau củ (138g) + Cơm gạo lứt (96g),233.3,8.6,6.7,34.8,0.147,0.258,0.597,tăng_cân
+Trà gừng mật ong (246g) + Trứng luộc (64g),149.0,8.1,6.8,13.1,0.217,0.411,0.352,không_phù_hợp
+Cơm gạo lứt (70g) + Đậu hũ chiên (92g),210.2,9.2,8.9,19.8,0.175,0.381,0.377,không_phù_hợp
+Trái chuối (96g) + Cơm gạo lứt (74g) + Canh bí đỏ (224g),223.6,4.1,2.6,49.2,0.073,0.105,0.88,không_phù_hợp
+Khoai lang luộc (107g) + Trứng luộc (35g) + Cháo yến mạch (197g),294.4,11.0,6.8,48.4,0.149,0.208,0.658,tăng_cân
+Đậu phộng rang (38g) + Cá hồi áp chảo (73g),353.0,24.9,27.2,7.6,0.282,0.693,0.086,không_phù_hợp
+Khoai lang luộc (84g) + Trà gừng mật ong (192g),110.6,1.3,0.1,26.4,0.047,0.008,0.955,không_phù_hợp
+Salad rau củ (168g) + Trái chuối (90g),169.7,3.2,5.9,28.5,0.075,0.313,0.672,không_phù_hợp
+Thịt bò xào hành (100g) + Trái chuối (104g),342.6,27.1,15.3,26.9,0.316,0.402,0.314,không_phù_hợp
+Canh bí đỏ (158g) + Sữa tươi không đường (169g) + Trứng luộc (58g),165.5,11.0,8.2,12.0,0.266,0.446,0.29,không_phù_hợp
+Bông cải xanh hấp (124g) + Trái chuối (98g),155.4,5.7,1.0,36.2,0.147,0.058,0.932,tăng_cân
+Cháo yến mạch (171g) + Sữa tươi không đường (249g) + Ức gà nướng (84g),319.1,34.5,6.8,29.3,0.432,0.192,0.367,giảm_mỡ
+Bông cải xanh hấp (105g) + Cháo yến mạch (255g) + Trứng luộc (36g),305.2,14.8,8.3,46.4,0.194,0.245,0.608,tăng_cân
+Trà gừng mật ong (199g) + Cá hồi áp chảo (78g) + Khoai lang luộc (110g),295.1,18.9,10.2,31.9,0.256,0.311,0.432,giữ_cân
+Khoai lang luộc (105g) + Ức gà nướng (80g) + Cháo yến mạch (213g),382.1,31.8,6.2,49.8,0.333,0.146,0.521,tăng_cơ
+Ức gà nướng (92g) + Đậu hũ chiên (93g) + Đậu phộng rang (21g),397.7,40.9,21.5,7.9,0.411,0.487,0.079,không_phù_hợp
+Khoai lang luộc (73g) + Đậu phộng rang (24g),190.8,6.8,11.3,19.4,0.143,0.533,0.407,không_phù_hợp
+Cơm gạo lứt (117g) + Sữa tươi không đường (219g) + Salad rau củ (139g),250.0,8.6,6.8,38.9,0.138,0.245,0.622,không_phù_hợp
+Bông cải xanh hấp (126g) + Canh bí đỏ (212g) + Salad rau củ (148g),201.2,7.7,7.3,30.3,0.153,0.327,0.602,tăng_cân
+Sữa tươi không đường (214g) + Ức gà nướng (110g) + Trứng luộc (45g),296.6,43.4,9.8,5.9,0.585,0.297,0.08,giảm_cân
+Trà gừng mật ong (192g) + Sữa tươi không đường (250g) + Ức gà nướng (92g),242.7,32.8,4.6,15.8,0.541,0.171,0.26,giảm_mỡ
+Ức gà nướng (105g) + Sữa tươi không đường (164g),207.7,35.3,4.6,4.1,0.68,0.199,0.079,giảm_mỡ
+Trái chuối (121g) + Cá hồi áp chảo (86g),284.9,20.3,11.5,27.8,0.285,0.363,0.39,giữ_cân
+Trứng luộc (45g) + Cá hồi áp chảo (124g),325.6,33.0,20.9,0.5,0.405,0.578,0.006,không_phù_hợp
+Cá hồi áp chảo (101g) + Đậu hũ chiên (78g),320.4,28.5,20.2,3.1,0.356,0.567,0.039,không_phù_hợp
+Sữa tươi không đường (220g) + Cá hồi áp chảo (102g),256.3,26.2,14.4,5.5,0.409,0.506,0.086,không_phù_hợp
+Bông cải xanh hấp (122g) + Canh bí đỏ (258g),131.6,5.8,2.7,25.0,0.176,0.185,0.76,tăng_cân
+Đậu hũ chiên (102g) + Bông cải xanh hấp (87g),194.7,11.4,9.7,13.7,0.234,0.448,0.281,không_phù_hợp
+Cá hồi áp chảo (122g) + Thịt bò xào hành (111g) + Trứng luộc (55g),614.6,62.6,38.3,4.0,0.407,0.561,0.026,không_phù_hợp
+Ức gà nướng (100g) + Cá hồi áp chảo (83g) + Trà gừng mật ong (206g),377.2,49.3,14.4,10.3,0.523,0.344,0.109,giữ_cân
