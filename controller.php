@@ -76,6 +76,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit_calorie_form']
             'goal' => $goal,
             'meal' => $mealSuggestion // mảng thực đơn
         ];
+
+        // Lưu vào database nếu đã đăng nhập
+        if ($isLoggedIn) {
+            require_once 'db_config.php';
+            $userId = $_SESSION['user_id'];
+            $sql = "INSERT INTO workout_history (user_id, age, height, weight, duration, heart_rate, body_temp, calories, goal, burned_calories, menu) VALUES (:user_id, :age, :height, :weight, :duration, :heart_rate, :body_temp, :calories, :goal, :burned_calories, :menu)";
+            $stmt = $pdo->prepare($sql);
+            $stmt->execute([
+                ':user_id' => $userId,
+                ':age' => $age,
+                ':height' => $height,
+                ':weight' => $weight,
+                ':duration' => $duration,
+                ':heart_rate' => $heartRate,
+                ':body_temp' => $bodyTemp,
+                ':calories' => $caloriesBurnt,
+                ':goal' => $goal,
+                ':burned_calories' => $caloriesBurnt,
+                ':menu' => json_encode($mealSuggestion, JSON_UNESCAPED_UNICODE)
+            ]);
+        }
     }
 }
 
@@ -109,10 +130,10 @@ function recommend_menu($goal, $burned_calories, $tolerance = 0.1) {
                 floatval($row_assoc['total_calories']) <= $max
             ) {
                 $results[] = [
-                    'name' => $row_assoc['name'],
-                    'protein' => $row_assoc['protein'],
-                    'carbs' => $row_assoc['carbs'],
-                    'fat' => $row_assoc['fat'],
+                    'name' => $row_assoc['menu'],
+                    'protein' => $row_assoc['total_protein'],
+                    'carbs' => $row_assoc['total_carb'],
+                    'fat' => $row_assoc['total_fat'],
                     'calories' => $row_assoc['total_calories']
                 ];
             }

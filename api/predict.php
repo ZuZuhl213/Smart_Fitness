@@ -96,4 +96,4 @@ echo json_encode([
     'calories' => $calories,
     'menus' => $menus
 ]);
-?>
+?>s
