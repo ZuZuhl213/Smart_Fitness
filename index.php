@@ -319,15 +319,7 @@ require_once 'controller.php';
                                             <?php if (!empty($mealSuggestion)): ?>
                                             <ul class="meal-list">
                                                 <?php foreach($mealSuggestion as $meal): ?>
-                                                    <li>
-                                                        <strong><?= htmlspecialchars($meal['name']) ?></strong>
-                                                        <ul class="mb-1">
-                                                            <li>Protein: <?= $meal['protein'] ?>g</li>
-                                                            <li>Carbs: <?= $meal['carbs'] ?>g</li>
-                                                            <li>Fat: <?= $meal['fat'] ?>g</li>
-                                                            <li>Calories: <?= $meal['calories'] ?> kcal</li>
-                                                        </ul>
-                                                    </li>
+                                                    <li><?= htmlspecialchars($meal['name']) ?> <span class="text-muted">(<?= htmlspecialchars($meal['calories']) ?> kcal)</span></li>
                                                 <?php endforeach; ?>
                                             </ul>
                                             <?php else: ?>
